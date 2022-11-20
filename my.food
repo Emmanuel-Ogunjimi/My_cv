@@ -1,0 +1,36 @@
+<!--Document type declaration -->
+<!DOCTYPE htmi>
+ <html lang="en">
+     <head>
+         <title>MY INSITE ABOUT WHAT I DO</title>
+     </head>
+     <body>
+         <h1>My favorite meals </h1>
+          <ui>
+            <li>rice and beans</li>
+            <li>fired rice and beans</li>
+            <li>bread and eegs</li>
+            <li>gun bread</li>
+          </ui>
+
+         <h1>My favorite cars </h1>
+           <ui>
+              <li>BENZ</li>
+           <//ui>
+
+         <h1>How to prepare bread and egg </h1>
+           <ui>
+             <li>get your bread and the eggs </li>
+             <li>break the eggs </li>
+             <li
+              
+
+
+
+          </ui>
+           
+
+         hello, world!
+     <!-- fla tech hob -->
+     </body>
+ <htlml>
